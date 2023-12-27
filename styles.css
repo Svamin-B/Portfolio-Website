@@ -1,0 +1,214 @@
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+    color: black;
+    text-align: center;
+    padding-top: 210px;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 900;
+    line-height: 1.5;
+    color: black;
+    text-align: center;
+    padding-top: 20px;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.3rem;
+    font-weight: 400;
+    line-height: 1.5;
+    padding-right: 50px;
+}
+
+.container-home {
+    padding: 0px;
+    padding-bottom: 210px;
+    text-align: center;
+    background-color: #9DC08B;
+
+}
+
+.container-about {
+    padding-top: 50px;
+    text-align: center;
+    background-color: #EDF1D6;
+    padding: 3% 8% 7%;
+}
+
+.container-projects {
+    padding: 200px;
+    text-align: center;
+    background-color: #9DC08B;
+    padding: 3% 8% 7%;
+}
+
+.container-contact {
+    padding: 200px;
+    text-align: center;
+    background-color: #EDF1D6;
+    padding: 3% 8% 7%;
+}
+
+.container-footer {
+    padding: 200px;
+    text-align: center;
+    background-color: #9DC08B;
+    padding: 3% 8% 7%;
+}
+
+.navbar {
+
+}
+
+.navbar-brand {
+    font-size: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat";
+}
+
+.main-heading {
+    margin: 0px, 20px;
+}
+
+body {
+  font-size: 20px;
+  color: #212529;
+  font-family: 'Lora', 'Times New Roman', serif;
+}
+
+p {
+  line-height: 1.5;
+  margin: 0;
+}
+
+
+.nav-item {
+    margin: 20px, 0px;
+}
+
+.projects-btn {
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    width: 15%;
+    margin: auto;
+    border: none;
+    background-color: #40513B;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.skill-btn {
+display: block;
+    font-family: 'Montserrat', sans-serif;
+
+    margin: 5px 5px;
+    border: none;
+    background-color: #9DC08B;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+}
+
+
+
+.about-subheading {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.subheading {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+    color: black;
+    text-align: left;
+    padding-bottom: 0px;
+}
+
+.about-text {
+    text-align: left;
+}
+
+.carousel-item {
+    padding: 5% 15%;
+}
+
+.laptop-img {
+    width: 80%;
+    padding-bottom: 50px;
+}
+
+
+.view-btn {
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+    border: none;
+    background-color: #40513B;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.carousel-text {
+    text-align: left;
+}
+
+.contact-subheading {
+    font-size: 1.5rem;
+    margin:
+}
+
+.contact-item {
+    margin: 20px;
+}
+
+
+
+.contact-form {
+  border-radius: 5px;
+  background-color: #9DC08B;
+  padding: 20px;
+}
+
+.socials {
+    margin: 20px 20px;
+}
+
+.copyright {
+
+    font-size: 1rem;
+    text-align: center;
+}
+
